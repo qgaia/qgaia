@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qgaia
-- 👀 I’m interested in  Web Developer, Machine Learning, Data Science e IOT.
-- 🌱 I’m currently learning  Sistemas para Internet (Unicesumar)
-- 💞️ I’m looking to collaborate on  Linguagens C, PHP, Python,
+- 👀 I’m interested in  Web Developer, Machine Learning, Data Science and IOT.
+- 🌱 I’m currently learning  Sistemas para Internet (Unicesumar).
+- 💞️ I’m looking to collaborate on  Linguagens C, PHP, Python, and Java.
 - 📫 How to reach me: por email cadastrado no Github
 
 <!---
